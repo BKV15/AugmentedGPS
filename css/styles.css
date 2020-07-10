@@ -1,0 +1,141 @@
+/* tag Customization */
+body {
+  font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+/* navbars Customization */
+
+.first-nav {
+  background-color: #112d4e;
+  color: #fff;
+}
+
+.first-nav .nav .nav-item .nav-link  {
+  color: #fff;
+}
+
+.dropdown-menu {
+  background-color: #112d4e;
+}
+
+.dropdown-menu a {
+  color: #fff;
+}
+
+.second-nav nav a{
+  color: #112d4e;
+}
+
+.navbar-toggler-icon {
+  color: #112d4e;
+}
+
+.navbar-brand {
+  font-family: 'Merienda One', cursive;
+  font-size: 1.5rem;
+}
+
+/* title Customization */
+.title-container {
+  background-image: url('../images/titleimg1.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: #fff;
+}
+
+.heading-container {
+  padding: 25% 10% 2% ;
+  margin-bottom: 5%;
+}
+
+.big-heading {
+  font-family: 'cinzel',sans-serif;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.btn-container {
+  padding: 1% 0 2% 0;
+}
+
+.title-btn {
+  margin: 1rem;
+}
+
+/* features Customization */
+#features {
+  text-align: center;
+  background-color: #112d4e;
+  color: #fff;
+}
+
+.features-container {
+  padding: 5% 10%;
+}
+
+.small-heading {
+  font-family: 'cinzel',sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  padding: 8% 0;
+}
+
+.features-icon {
+  font-size: 5rem;
+}
+
+.features-icon:hover {
+  color: #3f72af;
+}
+
+/* meet the team Customization */
+
+.team-container {
+  padding: 2% 10%;
+  color: #112d4e;
+  text-align: center;
+}
+
+.carousel-container {
+  padding: 5% 10%;
+  background-color: #112d4e;
+  color: #fff;
+  text-align: center;
+}
+
+.mtt-img {
+  width: 15%;
+  border-radius: 100%;
+  padding: 5% 0;
+
+}
+
+/* footer Customization */
+
+.footer-container {
+  text-align: center;
+  color:  #112d4e;
+  padding: 2% 10%;
+}
+
+.footer-container .row {
+  text-align: left;
+}
+
+.footer-paragraph {
+  font-size: 1rem;
+  color: #3f72af;
+  margin: 10px;
+}
+@media (max-width: 800px) {
+  .container-fluid {
+    text-align: center;
+  }
+
+}
